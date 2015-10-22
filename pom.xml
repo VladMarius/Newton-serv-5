@@ -6,7 +6,8 @@
     <parent>
         <groupId>im.bci.newtonadv</groupId>
         <artifactId>playn</artifactId>
-        <version>1.17</version>
+        <version>1.17-SNAPSHOT</version>
+        <url>http://maven.apache.org</url>
     </parent>
 
     <artifactId>playn-html</artifactId>
